@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+     text-decoration: none;
+     border: none;
+     outline: none;
+     font-family: Madefor,Helvetica Neue,Helvetica,Arial,メイリオ,meiryo,ヒラギノ角ゴ pro w3,hiragino kaku gothic pro,sans-serif;
+}
+ /* maquetacion de menu */
+ .header{
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+    background-color: #fff;
+    padding-top: 0;
+}
+
+a:link, a:visited{
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    padding: 20px 20px;
+    height: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding-top: 30px;
+}
+.menu{
+    display: inline-block;
+}
+a:active{
+    color: #b48fff;
+}
+a:hover{
+    color: #b48fff;
+}
+div.iconos.link{
+    background-color: #9966ff;
+    float: right;
+    text-align: center;
+    padding-bottom: 5px !important;
+    border-radius: 5px 5px 5px;
+}
+i.colorblanco{
+    color: white;
+}
+i.colormorado{
+    color: #9966ff;
+    padding-left: 15px;
+    font-size: 18px;
+}
+.user{
+    display: inline-block;
+    color: #9966ff;
+}
+    /* imagenes y textos*/
+.contenedor_imagen{
+    display: inline-block;
+    position: relative;
+}
+.texto_superpuesto{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    font-size: 120px;
+    color: white;
+    font-family: Madefor,Helvetica Neue,Helvetica,Arial,メイリオ,meiryo,ヒラギノ角ゴ pro w3,hiragino kaku gothic pro,sans-serif;
+}
+.parrafo_superpuesto{
+    position: absolute;
+    top: 80%;
+    left: 10%;
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.619);
+    font-family: Madefor,Helvetica Neue,Helvetica,Arial,メイリオ,meiryo,ヒラギノ角ゴ pro w3,hiragino kaku gothic pro,sans-serif;
+}
+.boton_curso{
+    position: absolute;
+    top: 70%;
+    left: 10%;
+    color:#fff;
+    background-color: #9966ff;
+    text-align: center;
+    border-radius: 5px 5px 5px;
+}
+
+.color_morado{
+    color: #9966ff;
+}
+div a.colorblanco{
+    color: #fff;
+}
+.container{
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+}
+.parrafo_superpuesto2 div p{
+    color: black;
+    font-size: 50px; 
+}
+.seccion2 div:nth-child(2n){
+    padding-top: 14rem;
+    padding-left: 3rem;
+}
+.contenedor_imagen2{
+    padding: 30px;
+}
+.titulo{
+    position: absolute;
+    right: 10rem;
+    top: 190%;
+    right:100px;
+}
+
+
