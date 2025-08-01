@@ -15,7 +15,6 @@
     background-color: #fff;
     padding-top: 0;
 }
-
 a:link, a:visited{
     color: black;
     text-decoration: none;
@@ -40,7 +39,6 @@ div.iconos.link{
     float: right;
     text-align: center;
     padding-bottom: 5px !important;
-    border-radius: 5px 5px 5px;
 }
 i.colorblanco{
     color: white;
@@ -54,7 +52,7 @@ i.colormorado{
     display: inline-block;
     color: #9966ff;
 }
-    /* imagenes y textos*/
+/* imagen y texto PRIMERA PAGINA*/
 .contenedor_imagen{
     display: inline-block;
     position: relative;
@@ -75,6 +73,7 @@ i.colormorado{
     color: rgba(255, 255, 255, 0.619);
     font-family: Madefor,Helvetica Neue,Helvetica,Arial,メイリオ,meiryo,ヒラギノ角ゴ pro w3,hiragino kaku gothic pro,sans-serif;
 }
+/* BOTON DENTRO DE IMAGEN 1 */
 .boton_curso{
     position: absolute;
     top: 70%;
@@ -82,20 +81,13 @@ i.colormorado{
     color:#fff;
     background-color: #9966ff;
     text-align: center;
-    border-radius: 5px 5px 5px;
-}
-
-.color_morado{
-    color: #9966ff;
-}
-div a.colorblanco{
-    color: #fff;
 }
 .container{
     width: 100%;
     height: 100%;
     overflow-x: hidden;
 }
+/* IMAGEN 2 DE PAGINA PRINCIPAL */
 .parrafo_superpuesto2 div p{
     color: black;
     font-size: 50px; 
@@ -104,6 +96,7 @@ div a.colorblanco{
     padding-top: 14rem;
     padding-left: 3rem;
 }
+
 .contenedor_imagen2{
     padding: 30px;
 }
@@ -113,5 +106,51 @@ div a.colorblanco{
     top: 190%;
     right:100px;
 }
+.titulo p{
+    font-size: 20px;
+}.titulo span{
+    color: gray;
+    padding-top: 5px;
+}
+/* HERRAMIENTAS PARA COLORES */
+.color_morado{
+    color: #9966ff;
+}
+div a.colorblanco{
+    color: #fff;
+}
+/* TERCERA IMAGEN CON TEXTO ALA IZQUIERDA */
+.imagen3{
+    float: right;
+    padding: 30px;
+}
+.float_right{
+    float: left;
+    padding: 50px;
+}
+.float_right span{
+    font-size: 40px;
+    color: #9966ff;
+    font-family: "Libertinus Serif", serif;
+}
+.float_right i{
+    color: #9966ff;
+    font-size: 30px;
+}
+.float_right p{
+    color: gray;
+    padding-bottom: 20px;
+}
+/* BOTON IMAGEN 3 */
+.boton2{
+    background-color: #9966ff;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    width: 210px;
+    height: 70px;
+}
+
+
 
 
