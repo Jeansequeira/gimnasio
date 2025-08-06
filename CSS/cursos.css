@@ -1,0 +1,260 @@
+
+/* SECCION 1 */
+.seccion1{
+    font-size: 45px;
+    text-align: center;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    font-family: "Libertinus Serif", serif;
+    width: 80rem;
+}
+/* SECCION 2 */
+.imagen1{
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    padding: 0px;
+}
+.txt1{
+    position: absolute;
+    top: 30%;
+    left: 26%;
+    font-size: 50px;
+    color: white;
+    font-family: Madefor,Helvetica Neue,Helvetica,Arial,メイリオ,meiryo,ヒラギノ角ゴ pro w3,hiragino kaku gothic pro,sans-serif;
+}
+.txt2{
+    text-decoration: underline;
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    font-size: 25px;
+    color: white;
+    font-family: Madefor,Helvetica Neue,Helvetica,Arial,メイリオ,meiryo,ヒラギノ角ゴ pro w3,hiragino kaku gothic pro,sans-serif;
+}
+.icon_play{
+    position: absolute;
+    top: 50%;
+    left: 32%;
+    font-size: 22px;
+    color: white;
+}
+.txt3{
+    text-decoration: underline;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 22px;
+    color: white;
+    font-family: Madefor,Helvetica Neue,Helvetica,Arial,メイリオ,meiryo,ヒラギノ角ゴ pro w3,hiragino kaku gothic pro,sans-serif;
+}
+/* BOTON SECCION 2 */
+.btn_seccion2{
+    position: absolute;
+    top: 80%;
+    left: 40%;
+    border: 1px solid white;
+    color:#fff;
+    text-align: center;
+    padding: 10px 30px;
+}
+.tamaño{
+    padding: 0px;
+}
+/* SECCION 2 */
+.img2{
+    display: inline-block;
+    position: relative;
+    width: 100%;
+}
+.txt1{
+    position: absolute;
+    top: 30%;
+    left: 26%;
+    font-size: 50px;
+    color: white;
+    font-family: Madefor,Helvetica Neue,Helvetica,Arial,メイリオ,meiryo,ヒラギノ角ゴ pro w3,hiragino kaku gothic pro,sans-serif;
+}
+.txt2{
+    text-decoration: underline;
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    font-size: 25px;
+    color: white;
+    font-family: Madefor,Helvetica Neue,Helvetica,Arial,メイリオ,meiryo,ヒラギノ角ゴ pro w3,hiragino kaku gothic pro,sans-serif;
+}
+.icon_play{
+    position: absolute;
+    top: 50%;
+    left: 32%;
+    font-size: 22px;
+    color: white;
+}
+.txt3{
+    text-decoration: underline;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 22px;
+    color: white;
+    font-family: Madefor,Helvetica Neue,Helvetica,Arial,メイリオ,meiryo,ヒラギノ角ゴ pro w3,hiragino kaku gothic pro,sans-serif;
+}
+/* BOTON SECCION 3 */
+.boton_seccion3{
+    position: absolute;
+    top: 80%;
+    left: 40%;
+    border: 1px solid white;
+    color:#fff;
+    text-align: center;
+    padding: 15px 30px;
+}
+.tamaño2{
+    padding: 0px;
+    height: 500px;
+    width: 1212px;
+}
+/* SECCION 2 */
+.img3{
+    position: relative;
+    width: 100%;
+}
+.txt1{
+    position: absolute;
+    top: 30%;
+    left: 26%;
+    font-size: 50px;
+    color: white;
+    font-family: Madefor,Helvetica Neue,Helvetica,Arial,メイリオ,meiryo,ヒラギノ角ゴ pro w3,hiragino kaku gothic pro,sans-serif;
+}
+.txt2{
+    text-decoration: underline;
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    font-size: 25px;
+    color: white;
+    font-family: Madefor,Helvetica Neue,Helvetica,Arial,メイリオ,meiryo,ヒラギノ角ゴ pro w3,hiragino kaku gothic pro,sans-serif;
+}
+.icon_play{
+    position: absolute;
+    top: 50%;
+    left: 32%;
+    font-size: 22px;
+    color: white;
+}
+.txt3{
+    text-decoration: underline;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 22px;
+    color: white;
+    font-family: Madefor,Helvetica Neue,Helvetica,Arial,メイリオ,meiryo,ヒラギノ角ゴ pro w3,hiragino kaku gothic pro,sans-serif;
+}
+/* BOTON SECCION 4 */
+.boton_seccion4{
+    position: absolute;
+    top: 80%;
+    left: 40%;
+    border: 1px solid white;
+    color:#fff;
+    text-align: center;
+    padding: 10px 30px;
+}
+.tamaño2{
+    padding: 0px;
+    height: 520px;
+    width: 1212px;
+}
+/* seccion 5 */
+.centro{
+    margin-left: 23rem;
+    font-family: Madefor,Helvetica Neue,Helvetica,Arial,メイリオ,meiryo,ヒラギノ角ゴ pro w3,hiragino kaku gothic pro,sans-serif;
+    font-size: 50px;
+    padding: 20px 15px 30px;
+}
+.caja_1{
+    background-color: #9966ff;
+    margin: auto;
+    width: 330px;
+    height: 400px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 100px;
+    margin-left: 15rem;
+}
+.icono_youtube{
+    font-size: 60px;
+    color: #fff;
+    padding-bottom: 30px;
+}
+.texto1{
+    font-size: 40px;
+    color: #fff;
+}
+.texto2{
+    font-size: 17px;
+    color: #fff;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.texto3{
+    font-size: 20px;
+    color: #4f3681;
+}
+.caja_2{
+    background-color: #9966ff;
+    margin: auto;
+    /* float: right; */
+    display: inline-block;
+    width: 330px;
+    height: 400px;
+    text-align: center;
+    padding-top: 100px;
+    /* padding: 40px; */
+    margin-left: 3rem;
+}
+.icono_media{
+    font-size: 60px;
+    color: #fff;
+    padding-bottom: 30px;
+}
+.texto_1{
+    font-size: 40px;
+    color: #fff;
+}
+.texto_2{
+    font-size: 17px;
+    color: #fff;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.texto_3{
+    font-size: 20px;
+    color: #4f3681;
+}
+.seccion5{
+    /* padding-left: 300px; */
+    padding-bottom: 100px;
+}
+/* PIE DE PAGINA */
+.pie_de_pagina{
+    background-color: rgb(66, 66, 66);
+    height: 100px;
+}
+.centrado{
+    padding-left: 30rem;
+    color: #a6a6a6;
+}
+.centrado_iconos{
+    padding-top: 1rem;
+    padding-left: 32rem;
+    color: #fff;
+}
+
+
+
+
+

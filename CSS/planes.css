@@ -1,0 +1,44 @@
+/* SECCION 1 */
+.planes_seccion1{
+    font-size: 100px;
+    text-align: center;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    font-family: Madefor,Helvetica Neue,Helvetica,Arial,メイリオ,meiryo,ヒラギノ角ゴ pro w3,hiragino kaku gothic pro,sans-serif;
+    width: 80rem;
+}
+/* SECCION 2 */
+.box_1{
+    border: 1px solid rgb(0, 0, 0, 0.5);
+    margin: auto;
+    width: 330px;
+    height: 400px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 0px;
+    margin-left: 10rem;
+}
+h1{
+    padding-bottom: 20px;
+    font-size: 15px;
+}
+.box_1 p{
+    font-size: 60px;
+}
+sup{
+    font-size: 30px;
+}
+span{
+    font-size: 14px;
+}
+.chiquito{
+    font-size: 12px;
+}
+.box_planes{
+    text-align: center;
+    background-color: #9966ff;
+    color: white;
+    width: 200px;
+    margin: auto;
+    padding: 15px;
+}

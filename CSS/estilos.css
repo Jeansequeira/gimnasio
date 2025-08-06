@@ -190,6 +190,12 @@ i.colormorado{
     text-decoration: underline;
 }
 /* SECCION 5 */
+.centro{
+    margin-left: 24rem;
+    font-family: Madefor,Helvetica Neue,Helvetica,Arial,メイリオ,meiryo,ヒラギノ角ゴ pro w3,hiragino kaku gothic pro,sans-serif;
+    font-size: 50px;
+    padding: 20px 15px 30px;
+}
 .caja_1{
     background-color: #9966ff;
     margin: auto;
