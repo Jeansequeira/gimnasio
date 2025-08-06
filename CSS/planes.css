@@ -9,14 +9,14 @@
 }
 /* SECCION 2 */
 .box_1{
-    border: 1px solid rgb(0, 0, 0, 0.5);
+    border: 1px solid rgba(77, 77, 77, 0.5);
     margin: auto;
     width: 330px;
     height: 400px;
     display: inline-block;
     text-align: center;
     padding-top: 0px;
-    margin-left: 10rem;
+    margin-left: 7rem;
 }
 h1{
     padding-bottom: 20px;
@@ -41,4 +41,47 @@ span{
     width: 200px;
     margin: auto;
     padding: 15px;
+}
+/* CAJA 2 */
+.box_2 P{
+    font-size: 60PX;
+}
+.box_2{
+    top: 10px;
+    border: 1px solid rgba(77, 77, 77, 0.5);
+    margin: auto;
+    width: 330px;
+    height: 400px;
+    display: inline-block;
+    text-align: center;
+    margin-left: 5px;
+}
+/* CAJA 3 */
+.box_3 P{
+    font-size: 60px;
+}
+.box_3{
+    top: 10px;
+    border: 1px solid rgba(77, 77, 77, 0.5);
+    margin: auto;
+    width: 330px;
+    height: 400px;
+    display: inline-block;
+    text-align: center;
+    margin-left: 5px;
+}
+/* PIE DE PAGINA */
+.pie_de_pagina{
+    margin-top: 10rem;
+    background-color: rgb(66, 66, 66);
+    height: 100px;
+}
+.centrado{
+    padding-left: 30rem;
+    color: #a6a6a6;
+}
+.centrado_iconos{
+    padding-top: 1rem;
+    padding-left: 32rem;
+    color: #fff;
 }
