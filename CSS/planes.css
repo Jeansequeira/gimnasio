@@ -43,6 +43,14 @@ span{
     padding: 15px;
 }
 /* CAJA 2 */
+.boton_encima{
+    margin-left: 6rem;
+    top: 25rem;
+    position: absolute;
+    padding: 8px;
+    background-color: #9966ff;
+    color: #fff;
+}
 .box_2 P{
     font-size: 60PX;
 }
